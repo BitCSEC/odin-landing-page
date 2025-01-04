@@ -1,3 +1,38 @@
 * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
     font-family: "Roboto", sans-serif;
+}
+
+/* Navbar styles */
+
+nav {
+    color: #F9FAF8;
+    background-color: #1F2937;
+
+    padding: 25px 150px;
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+
+nav ul {
+    list-style-type: none;
+
+    line-height: 2;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    color: #E5E7EB;
+
+    padding-left: 8px;
+
+    text-decoration: none;
 }

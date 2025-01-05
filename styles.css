@@ -12,7 +12,7 @@ nav {
     color: #F9FAF8;
     background-color: #1F2937;
 
-    padding: 25px 150px;
+    padding: 25px 175px;
     
     display: flex;
     justify-content: space-between;
@@ -43,7 +43,7 @@ nav h1 {
     color: #F9FAF8;
     background-color: #1F2937;
 
-    padding: 75px 150px;
+    padding: 100px 175px;
 
     display: flex;
     justify-content: space-between;

@@ -24,11 +24,15 @@ nav ul {
 
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 16px;
 }
 
 nav a {
     color: #E5E7EB;
 
     text-decoration: none;
+}
+
+nav h1 {
+    font-size: 24px;
 }

@@ -86,3 +86,44 @@ nav h1 {
 .hero-left p {
     margin-bottom: 10px;
 }
+
+/* Information styles */
+
+.info-container {
+    color: #1F2937;
+    background-color: #FFF;
+}
+
+.info-container h1 {
+    font-size: 36px;
+    font-weight: 900;
+
+    width: max-content;
+
+    margin: 40px auto;
+}
+
+.item-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.item {
+    color: #1F2937;
+
+    width: 160px;
+
+    text-align: center;
+    font-size: 17px;
+}
+
+.item-img {
+    background-color: #FFF;
+
+    width: 160px;
+    height: 160px;
+
+    border: 4px, solid, #3882F6;
+    border-radius: 10px;
+}

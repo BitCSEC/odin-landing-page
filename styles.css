@@ -22,17 +22,13 @@ nav {
 nav ul {
     list-style-type: none;
 
-    line-height: 2;
-}
-
-nav li {
-    display: inline-block;
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 nav a {
     color: #E5E7EB;
-
-    padding-left: 8px;
 
     text-decoration: none;
 }

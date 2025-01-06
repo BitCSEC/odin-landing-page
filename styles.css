@@ -92,6 +92,8 @@ nav h1 {
 .info-container {
     color: #1F2937;
     background-color: #FFF;
+
+    margin-bottom: 120px;
 }
 
 .info-container h1 {
